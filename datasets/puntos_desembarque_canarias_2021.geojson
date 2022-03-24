@@ -1,0 +1,1919 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.13443613,28.57954398 ]
+    },
+    "properties": {
+    "punto_desembarque_id":1,
+    "punto_desembarque_nombre":"Roque Bermejo",
+    "tipo":"Playa",
+    "municipio_id":"38038",
+    "municipio_nombre":"Santa Cruz de Tenerife",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":1,
+    "cofradia_pescadores_nombre":"San Andrés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.18938311,28.50536858 ]
+    },
+    "properties": {
+    "punto_desembarque_id":2,
+    "punto_desembarque_nombre":"San Andrés",
+    "tipo":"Playa",
+    "municipio_id":"38038",
+    "municipio_nombre":"Santa Cruz de Tenerife",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":1,
+    "cofradia_pescadores_nombre":"San Andrés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.20227208,28.49846609 ]
+    },
+    "properties": {
+    "punto_desembarque_id":3,
+    "punto_desembarque_nombre":"Puerto de Santa Cruz de Tenerife",
+    "tipo":"Puerto",
+    "municipio_id":"38038",
+    "municipio_nombre":"Santa Cruz de Tenerife",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":1,
+    "cofradia_pescadores_nombre":"San Andrés",
+    "puerto_pagina_web":"http://www.puertosdetenerife.org/index.php/es/tf-muelles-y-darsenas/tf-santa-cruz-de-tenerife",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.36776316,28.35737636 ]
+    },
+    "properties": {
+    "punto_desembarque_id":4,
+    "punto_desembarque_nombre":"Puerto de Candelaria",
+    "tipo":"Puerto",
+    "municipio_id":"38011",
+    "municipio_nombre":"Candelaria",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":2,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Candelaria",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.37444375,28.29501292 ]
+    },
+    "properties": {
+    "punto_desembarque_id":5,
+    "punto_desembarque_nombre":"Puertito de Güimar",
+    "tipo":"Puerto",
+    "municipio_id":"38011",
+    "municipio_nombre":"Candelaria",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":2,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Candelaria",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.41418758,28.2197818 ]
+    },
+    "properties": {
+    "punto_desembarque_id":6,
+    "punto_desembarque_nombre":"El Roque (Los Roques)",
+    "tipo":"Playa",
+    "municipio_id":"38012",
+    "municipio_nombre":"Fasnia",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.42311293,28.19360984 ]
+    },
+    "properties": {
+    "punto_desembarque_id":7,
+    "punto_desembarque_nombre":"Las Eras",
+    "tipo":"Playa",
+    "municipio_id":"38012",
+    "municipio_nombre":"Fasnia",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.43170912,28.16424952 ]
+    },
+    "properties": {
+    "punto_desembarque_id":8,
+    "punto_desembarque_nombre":"Poris de Abona",
+    "tipo":"Playa",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.44005891,28.14194749 ]
+    },
+    "properties": {
+    "punto_desembarque_id":9,
+    "punto_desembarque_nombre":"Abades",
+    "tipo":"Playa",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.46133478,28.12144583 ]
+    },
+    "properties": {
+    "punto_desembarque_id":10,
+    "punto_desembarque_nombre":"La Listada",
+    "tipo":"Playa",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.46295375,28.1207322 ]
+    },
+    "properties": {
+    "punto_desembarque_id":11,
+    "punto_desembarque_nombre":"La Jaca",
+    "tipo":"Playa",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.46969967,28.10918032 ]
+    },
+    "properties": {
+    "punto_desembarque_id":12,
+    "punto_desembarque_nombre":"Puerto de Tajao",
+    "tipo":"Puerto",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.480123,28.09950349 ]
+    },
+    "properties": {
+    "punto_desembarque_id":13,
+    "punto_desembarque_nombre":"Barranco del Río",
+    "tipo":"Playa",
+    "municipio_id":"38005",
+    "municipio_nombre":"Arico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":3,
+    "cofradia_pescadores_nombre":"San Miguel de Tajao",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.5362662,28.04417688 ]
+    },
+    "properties": {
+    "punto_desembarque_id":14,
+    "punto_desembarque_nombre":"El Médano",
+    "tipo":"Refugio",
+    "municipio_id":"38017",
+    "municipio_nombre":"Granadilla de Abona",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.59252824,28.02801129 ]
+    },
+    "properties": {
+    "punto_desembarque_id":15,
+    "punto_desembarque_nombre":"Los Abrigos",
+    "tipo":"Puerto",
+    "municipio_id":"38017",
+    "municipio_nombre":"Granadilla de Abona",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.65888591,28.00691464 ]
+    },
+    "properties": {
+    "punto_desembarque_id":16,
+    "punto_desembarque_nombre":"Las Galletas",
+    "tipo":"Puerto",
+    "municipio_id":"38006",
+    "municipio_nombre":"Arona",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.71954383,28.048813 ]
+    },
+    "properties": {
+    "punto_desembarque_id":17,
+    "punto_desembarque_nombre":"Los Cristianos",
+    "tipo":"Puerto",
+    "municipio_id":"38006",
+    "municipio_nombre":"Arona",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"https://www.puertosdetenerife.org/puertos/puerto-de-los-cristianos/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.73798308,28.07947559 ]
+    },
+    "properties": {
+    "punto_desembarque_id":18,
+    "punto_desembarque_nombre":"Adeje",
+    "tipo":"Puerto",
+    "municipio_id":"38001",
+    "municipio_nombre":"Adeje",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.75723829,28.10168054 ]
+    },
+    "properties": {
+    "punto_desembarque_id":19,
+    "punto_desembarque_nombre":"La Caleta",
+    "tipo":"Refugio",
+    "municipio_id":"38001",
+    "municipio_nombre":"Adeje",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":4,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Las Mercedes",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.81550098,28.17949328 ]
+    },
+    "properties": {
+    "punto_desembarque_id":20,
+    "punto_desembarque_nombre":"Playa San Juan",
+    "tipo":"Puerto",
+    "municipio_id":"38019",
+    "municipio_nombre":"Guía Isora",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":5,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Luz",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.82948332,28.2012445 ]
+    },
+    "properties": {
+    "punto_desembarque_id":21,
+    "punto_desembarque_nombre":"Alcalá",
+    "tipo":"Puerto",
+    "municipio_id":"38019",
+    "municipio_nombre":"Guía Isora",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":5,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Luz",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.84372479,28.2371273 ]
+    },
+    "properties": {
+    "punto_desembarque_id":22,
+    "punto_desembarque_nombre":"Puerto Santiago",
+    "tipo":"Puerto",
+    "municipio_id":"38040",
+    "municipio_nombre":"Santiago del Teide",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":5,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Luz",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.92012404,28.34258439 ]
+    },
+    "properties": {
+    "punto_desembarque_id":23,
+    "punto_desembarque_nombre":"La Ballenita",
+    "tipo":"Playa",
+    "municipio_id":"38010",
+    "municipio_nombre":"Buenavista del Norte",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":6,
+    "cofradia_pescadores_nombre":"San Roque e Isla Baja",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.86009228,28.37583236 ]
+    },
+    "properties": {
+    "punto_desembarque_id":24,
+    "punto_desembarque_nombre":"Playa de Los Barqueros",
+    "tipo":"Playa",
+    "municipio_id":"38010",
+    "municipio_nombre":"Buenavista del Norte",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":6,
+    "cofradia_pescadores_nombre":"San Roque e Isla Baja",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.75548197,28.37425186 ]
+    },
+    "properties": {
+    "punto_desembarque_id":25,
+    "punto_desembarque_nombre":"Puerto de Garachico",
+    "tipo":"Puerto",
+    "municipio_id":"38015",
+    "municipio_nombre":"Garachico",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":6,
+    "cofradia_pescadores_nombre":"San Roque e Isla Baja",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.72455654,28.37898984 ]
+    },
+    "properties": {
+    "punto_desembarque_id":26,
+    "punto_desembarque_nombre":"Puerto de San Marcos",
+    "tipo":"Refugio",
+    "municipio_id":"38022",
+    "municipio_nombre":"Icod de los Vinos",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":7,
+    "cofradia_pescadores_nombre":"San Marcos",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.67540301,28.39447861 ]
+    },
+    "properties": {
+    "punto_desembarque_id":27,
+    "punto_desembarque_nombre":"Playa Santo Domingo",
+    "tipo":"Playa",
+    "municipio_id":"38018",
+    "municipio_nombre":"La Guancha",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":7,
+    "cofradia_pescadores_nombre":"San Marcos",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.55050535,28.41830699 ]
+    },
+    "properties": {
+    "punto_desembarque_id":28,
+    "punto_desembarque_nombre":"Puerto de La Cruz",
+    "tipo":"Puerto",
+    "municipio_id":"38028",
+    "municipio_nombre":"Puerto de La Cruz",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":8,
+    "cofradia_pescadores_nombre":"Gran Poder de Dios",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.42177939,28.50842671 ]
+    },
+    "properties": {
+    "punto_desembarque_id":29,
+    "punto_desembarque_nombre":"El Pris",
+    "tipo":"Refugio",
+    "municipio_id":"38043",
+    "municipio_nombre":"Tacoronte",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":9,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.39751171,28.53756011 ]
+    },
+    "properties": {
+    "punto_desembarque_id":30,
+    "punto_desembarque_nombre":"La Barranquera",
+    "tipo":"Refugio",
+    "municipio_id":"38023",
+    "municipio_nombre":"San Cristóbal de La Laguna",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":10,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Consolación",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.37018405,28.54687073 ]
+    },
+    "properties": {
+    "punto_desembarque_id":31,
+    "punto_desembarque_nombre":"Jover",
+    "tipo":"Refugio",
+    "municipio_id":"38023",
+    "municipio_nombre":"San Cristóbal de La Laguna",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":10,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Consolación",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.33199815,28.5646636 ]
+    },
+    "properties": {
+    "punto_desembarque_id":32,
+    "punto_desembarque_nombre":"Punta del Hidalgo",
+    "tipo":"Refugio",
+    "municipio_id":"38023",
+    "municipio_nombre":"San Cristóbal de La Laguna",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":10,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Consolación",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.20402697,28.57085334 ]
+    },
+    "properties": {
+    "punto_desembarque_id":33,
+    "punto_desembarque_nombre":"Taganana",
+    "tipo":"Playa",
+    "municipio_id":"38038",
+    "municipio_nombre":"Santa Cruz de Tenerife",
+    "isla_id":"ES709",
+    "isla_nombre":"Tenerife",
+    "cofradia_pescadores_id":10,
+    "cofradia_pescadores_nombre":"Nuestra Señora de La Consolación",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.33278679,28.08177862 ]
+    },
+    "properties": {
+    "punto_desembarque_id":34,
+    "punto_desembarque_nombre":"Puerto de Vueltas",
+    "tipo":"Puerto",
+    "municipio_id":"38049",
+    "municipio_nombre":"Valle Gran Rey",
+    "isla_id":"ES706",
+    "isla_nombre":"La Gomera",
+    "cofradia_pescadores_id":11,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/vueltas/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.77375299,28.83133835 ]
+    },
+    "properties": {
+    "punto_desembarque_id":35,
+    "punto_desembarque_nombre":"Talavera",
+    "tipo":"Refugio",
+    "municipio_id":"38007",
+    "municipio_nombre":"Barlovento",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":12,
+    "cofradia_pescadores_nombre":"Nuestra Señora de las Nieves",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.76385782,28.81136061 ]
+    },
+    "properties": {
+    "punto_desembarque_id":36,
+    "punto_desembarque_nombre":"Puerto Espíndola",
+    "tipo":"Refugio",
+    "municipio_id":"38033",
+    "municipio_nombre":"San Andrés y Sauces",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":12,
+    "cofradia_pescadores_nombre":"Nuestra Señora de las Nieves",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.76919473,28.67268587 ]
+    },
+    "properties": {
+    "punto_desembarque_id":37,
+    "punto_desembarque_nombre":"Puerto de Santa Cruz de La Palma",
+    "tipo":"Puerto",
+    "municipio_id":"38008",
+    "municipio_nombre":"Breña Alta",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":12,
+    "cofradia_pescadores_nombre":"Nuestra Señora de las Nieves",
+    "puerto_pagina_web":"https://www.puertosdetenerife.org/puertos/puerto-de-santa-cruz-de-la-palma/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.84399189,28.45576758 ]
+    },
+    "properties": {
+    "punto_desembarque_id":38,
+    "punto_desembarque_nombre":"Faro de Fuencaliente",
+    "tipo":"Playa",
+    "municipio_id":"38014",
+    "municipio_nombre":"Fuencaliente de La Palma",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":12,
+    "cofradia_pescadores_nombre":"Nuestra Señora de las Nieves",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.86811063,28.48277058 ]
+    },
+    "properties": {
+    "punto_desembarque_id":39,
+    "punto_desembarque_nombre":"Punta Larga",
+    "tipo":"Playa",
+    "municipio_id":"38014",
+    "municipio_nombre":"Fuencaliente de La Palma",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":12,
+    "cofradia_pescadores_nombre":"Nuestra Señora de las Nieves",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.94227043,28.64468315 ]
+    },
+    "properties": {
+    "punto_desembarque_id":40,
+    "punto_desembarque_nombre":"Puerto de Tazacorte",
+    "tipo":"Puerto",
+    "municipio_id":"38045",
+    "municipio_nombre":"Tazacorte",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":13,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/tazacorte/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.90283999,27.78485984 ]
+    },
+    "properties": {
+    "punto_desembarque_id":41,
+    "punto_desembarque_nombre":"Puerto de La Estaca",
+    "tipo":"Puerto",
+    "municipio_id":"38048",
+    "municipio_nombre":"Valverde",
+    "isla_id":"ES703",
+    "isla_nombre":"El Hierro",
+    "cofradia_pescadores_id":14,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Los Reyes",
+    "puerto_pagina_web":"https://www.puertosdetenerife.org/puertos/puerto-de-la-estaca-el-hierro/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.97980472,27.63933008 ]
+    },
+    "properties": {
+    "punto_desembarque_id":42,
+    "punto_desembarque_nombre":"Puerto de La Restinga",
+    "tipo":"Puerto",
+    "municipio_id":"38901",
+    "municipio_nombre":"El Pinar",
+    "isla_id":"ES703",
+    "isla_nombre":"El Hierro",
+    "cofradia_pescadores_id":14,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Los Reyes",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/la-restinga/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.36937881,27.98983203 ]
+    },
+    "properties": {
+    "punto_desembarque_id":43,
+    "punto_desembarque_nombre":"Melenara",
+    "tipo":"Puerto",
+    "municipio_id":"35026",
+    "municipio_nombre":"Telde",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.37839916,27.98315899 ]
+    },
+    "properties": {
+    "punto_desembarque_id":44,
+    "punto_desembarque_nombre":"Salinetas",
+    "tipo":"Playa",
+    "municipio_id":"35026",
+    "municipio_nombre":"Telde",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"https://www.palmasport.es/es/puerto-de-salinetas/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.39771045,27.84500723 ]
+    },
+    "properties": {
+    "punto_desembarque_id":45,
+    "punto_desembarque_nombre":"Arinaga",
+    "tipo":"Puerto",
+    "municipio_id":"35002",
+    "municipio_nombre":"Agüimes",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"https://www.palmasport.es/es/puerto-de-arinaga/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.46306457,27.79533789 ]
+    },
+    "properties": {
+    "punto_desembarque_id":46,
+    "punto_desembarque_nombre":"Castillo del Romeral",
+    "tipo":"Puerto",
+    "municipio_id":"35019",
+    "municipio_nombre":"San Bartolomé de Tirajana",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/castillo-del-romeral/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.52641675,27.77756238 ]
+    },
+    "properties": {
+    "punto_desembarque_id":47,
+    "punto_desembarque_nombre":"El Águila",
+    "tipo":"Playa",
+    "municipio_id":"35019",
+    "municipio_nombre":"San Bartolomé de Tirajana",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Anuncio de 9 de enero de 2003, por el que se hace público la Resolución de 18 de diciembre de 2002, que declara la inclusión de los refugios pesqueros de Punta Grande y Playa del Águila, municipios de Frontera y San Bartolomé de Tirajana",
+    "boc_titulo":"BOC Nº. 17, lunes 27 de enero de 2003",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2003/017/boc-2003-017-016.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.55177536,27.76560421 ]
+    },
+    "properties": {
+    "punto_desembarque_id":48,
+    "punto_desembarque_nombre":"Las Burras",
+    "tipo":"Playa",
+    "municipio_id":"35019",
+    "municipio_nombre":"San Bartolomé de Tirajana",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":15,
+    "cofradia_pescadores_nombre":"Castillo del Romeral",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.62305931,27.7459864 ]
+    },
+    "properties": {
+    "punto_desembarque_id":49,
+    "punto_desembarque_nombre":"Pasito Blanco",
+    "tipo":"Puerto",
+    "municipio_id":"35019",
+    "municipio_nombre":"San Bartolomé de Tirajana",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":16,
+    "cofradia_pescadores_nombre":"Arguineguín",
+    "puerto_pagina_web":"http://pasitoblanco.com/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.67227821,27.75221036 ]
+    },
+    "properties": {
+    "punto_desembarque_id":50,
+    "punto_desembarque_nombre":"El Pajar",
+    "tipo":"Playa",
+    "municipio_id":"35019",
+    "municipio_nombre":"San Bartolomé de Tirajana",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":16,
+    "cofradia_pescadores_nombre":"Arguineguín",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.68565269,27.75695687 ]
+    },
+    "properties": {
+    "punto_desembarque_id":51,
+    "punto_desembarque_nombre":"Puerto de Arguineguín",
+    "tipo":"Puerto",
+    "municipio_id":"35012",
+    "municipio_nombre":"Mogán",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":16,
+    "cofradia_pescadores_nombre":"Arguineguín",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/arguineguin/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.76677137,27.81632909 ]
+    },
+    "properties": {
+    "punto_desembarque_id":52,
+    "punto_desembarque_nombre":"Puerto de Mogán",
+    "tipo":"Puerto",
+    "municipio_id":"35012",
+    "municipio_nombre":"Mogán",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":17,
+    "cofradia_pescadores_nombre":"Playa de Mogán",
+    "puerto_pagina_web":"http://www.puertomogan.es/es/inicio/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.81889189,28.0065011 ]
+    },
+    "properties": {
+    "punto_desembarque_id":53,
+    "punto_desembarque_nombre":"La Aldea",
+    "tipo":"Refugio",
+    "municipio_id":"35020",
+    "municipio_nombre":"La Aldea de San Nicolás",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":18,
+    "cofradia_pescadores_nombre":"Agaete",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.71251928,28.10077072 ]
+    },
+    "properties": {
+    "punto_desembarque_id":54,
+    "punto_desembarque_nombre":"Puerto de Las Nieves",
+    "tipo":"Puerto",
+    "municipio_id":"35001",
+    "municipio_nombre":"Agaete",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":18,
+    "cofradia_pescadores_nombre":"Agaete",
+    "puerto_pagina_web":"https://puertoscanarios.es/project/puerto-de-las-nieves/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.69961239,28.15381171 ]
+    },
+    "properties": {
+    "punto_desembarque_id":55,
+    "punto_desembarque_nombre":"Sardina del Norte",
+    "tipo":"Refugio",
+    "municipio_id":"35009",
+    "municipio_nombre":"Gáldar",
+    "isla_id":"ES705",
+    "isla_nombre":"Gran Canaria",
+    "cofradia_pescadores_id":18,
+    "cofradia_pescadores_nombre":"Agaete",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.0126039,28.68173174 ]
+    },
+    "properties": {
+    "punto_desembarque_id":56,
+    "punto_desembarque_nombre":"El Cotillo",
+    "tipo":"Puerto",
+    "municipio_id":"35014",
+    "municipio_nombre":"La Oliva",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.86595336,28.74109488 ]
+    },
+    "properties": {
+    "punto_desembarque_id":57,
+    "punto_desembarque_nombre":"Puerto de Corralejo",
+    "tipo":"Puerto",
+    "municipio_id":"35014",
+    "municipio_nombre":"La Oliva",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.82672871,28.60822077 ]
+    },
+    "properties": {
+    "punto_desembarque_id":58,
+    "punto_desembarque_nombre":"Puerto del Jablito",
+    "tipo":"Refugio",
+    "municipio_id":"35014",
+    "municipio_nombre":"La Oliva",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.85705809,28.49886075 ]
+    },
+    "properties": {
+    "punto_desembarque_id":59,
+    "punto_desembarque_nombre":"Puerto del Rosario",
+    "tipo":"Puerto",
+    "municipio_id":"35017",
+    "municipio_nombre":"Puerto del Rosario",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"https://www.palmasport.es/es/puerto-de-puerto-del-rosario/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.85569665,28.39273234 ]
+    },
+    "properties": {
+    "punto_desembarque_id":60,
+    "punto_desembarque_nombre":"El Castillo",
+    "tipo":"Puerto",
+    "municipio_id":"35003",
+    "municipio_nombre":"Antigua",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.87154256,28.36581217 ]
+    },
+    "properties": {
+    "punto_desembarque_id":61,
+    "punto_desembarque_nombre":"Salinas del Carmen",
+    "tipo":"Playa",
+    "municipio_id":"35003",
+    "municipio_nombre":"Antigua",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":19,
+    "cofradia_pescadores_nombre":"Corralejo",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.89588177,28.32278435 ]
+    },
+    "properties": {
+    "punto_desembarque_id":62,
+    "punto_desembarque_nombre":"Pozo Negro",
+    "tipo":"Playa",
+    "municipio_id":"35003",
+    "municipio_nombre":"Antigua",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":20,
+    "cofradia_pescadores_nombre":"Gran Tarajal",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.90627214,28.27611989 ]
+    },
+    "properties": {
+    "punto_desembarque_id":63,
+    "punto_desembarque_nombre":"Jacomar",
+    "tipo":"Playa",
+    "municipio_id":"35003",
+    "municipio_nombre":"Antigua",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":20,
+    "cofradia_pescadores_nombre":"Gran Tarajal",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.9840815,28.22763765 ]
+    },
+    "properties": {
+    "punto_desembarque_id":64,
+    "punto_desembarque_nombre":"Las Playitas",
+    "tipo":"Refugio",
+    "municipio_id":"35030",
+    "municipio_nombre":"Tuineje",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":20,
+    "cofradia_pescadores_nombre":"Gran Tarajal",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.02472464,28.20782489 ]
+    },
+    "properties": {
+    "punto_desembarque_id":65,
+    "punto_desembarque_nombre":"Gran Tarajal",
+    "tipo":"Puerto",
+    "municipio_id":"35030",
+    "municipio_nombre":"Tuineje",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":20,
+    "cofradia_pescadores_nombre":"Gran Tarajal",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.07377418,28.20181069 ]
+    },
+    "properties": {
+    "punto_desembarque_id":66,
+    "punto_desembarque_nombre":"Giniginamar",
+    "tipo":"Playa",
+    "municipio_id":"35030",
+    "municipio_nombre":"Tuineje",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":20,
+    "cofradia_pescadores_nombre":"Gran Tarajal",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.11557683,28.19161042 ]
+    },
+    "properties": {
+    "punto_desembarque_id":67,
+    "punto_desembarque_nombre":"Tarajalejo",
+    "tipo":"Playa",
+    "municipio_id":"35030",
+    "municipio_nombre":"Tuineje",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":21,
+    "cofradia_pescadores_nombre":"Morro Jable",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.15196987,28.18299391 ]
+    },
+    "properties": {
+    "punto_desembarque_id":68,
+    "punto_desembarque_nombre":"La Lajita",
+    "tipo":"Playa",
+    "municipio_id":"35015",
+    "municipio_nombre":"Pájara",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":21,
+    "cofradia_pescadores_nombre":"Morro Jable",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.35857668,28.04959034 ]
+    },
+    "properties": {
+    "punto_desembarque_id":69,
+    "punto_desembarque_nombre":"Puerto de Morrojable",
+    "tipo":"Puerto",
+    "municipio_id":"35015",
+    "municipio_nombre":"Pájara",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":21,
+    "cofradia_pescadores_nombre":"Morro Jable",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.21285476,28.23392397 ]
+    },
+    "properties": {
+    "punto_desembarque_id":70,
+    "punto_desembarque_nombre":"Puerto Nuevo",
+    "tipo":"Playa",
+    "municipio_id":"35015",
+    "municipio_nombre":"Pájara",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":21,
+    "cofradia_pescadores_nombre":"Morro Jable",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.15626272,28.39959891 ]
+    },
+    "properties": {
+    "punto_desembarque_id":71,
+    "punto_desembarque_nombre":"Ajuy",
+    "tipo":"Playa",
+    "municipio_id":"35015",
+    "municipio_nombre":"Pájara",
+    "isla_id":"ES704",
+    "isla_nombre":"Fuerteventura",
+    "cofradia_pescadores_id":21,
+    "cofradia_pescadores_nombre":"Morro Jable",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.50185302,29.22947088 ]
+    },
+    "properties": {
+    "punto_desembarque_id":72,
+    "punto_desembarque_nombre":"Caleta de Sebo",
+    "tipo":"Puerto",
+    "municipio_id":"35024",
+    "municipio_nombre":"Teguise",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":22,
+    "cofradia_pescadores_nombre":"La Graciosa",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.45194683,29.22378238 ]
+    },
+    "properties": {
+    "punto_desembarque_id":73,
+    "punto_desembarque_nombre":"Puerto de Órzola",
+    "tipo":"Puerto",
+    "municipio_id":"35010",
+    "municipio_nombre":"Haría",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.44746011,29.14347053 ]
+    },
+    "properties": {
+    "punto_desembarque_id":74,
+    "punto_desembarque_nombre":"Punta Mujeres",
+    "tipo":"Refugio",
+    "municipio_id":"35010",
+    "municipio_nombre":"Haría",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.45942157,29.13196289 ]
+    },
+    "properties": {
+    "punto_desembarque_id":75,
+    "punto_desembarque_nombre":"Arrieta",
+    "tipo":"Refugio",
+    "municipio_id":"35010",
+    "municipio_nombre":"Haría",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.53812659,28.96727023 ]
+    },
+    "properties": {
+    "punto_desembarque_id":76,
+    "punto_desembarque_nombre":"Puerto de Arrecife",
+    "tipo":"Puerto",
+    "municipio_id":"35004",
+    "municipio_nombre":"Arrecife",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"https://www.palmasport.es/es/puerto-de-arrecife/",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.54597138,28.96047274 ]
+    },
+    "properties": {
+    "punto_desembarque_id":77,
+    "punto_desembarque_nombre":"Charco de San Ginés",
+    "tipo":"Refugio",
+    "municipio_id":"35004",
+    "municipio_nombre":"Arrecife",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.67599385,28.92029175 ]
+    },
+    "properties": {
+    "punto_desembarque_id":78,
+    "punto_desembarque_nombre":"Puerto del Carmen",
+    "tipo":"Puerto",
+    "municipio_id":"35028",
+    "municipio_nombre":"Tías",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":24,
+    "cofradia_pescadores_nombre":"La Tiñosa",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.73553153,28.90714824 ]
+    },
+    "properties": {
+    "punto_desembarque_id":79,
+    "punto_desembarque_nombre":"Playa Quemada",
+    "tipo":"Playa",
+    "municipio_id":"35034",
+    "municipio_nombre":"Yaiza",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":25,
+    "cofradia_pescadores_nombre":"Playa Blanca",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.83489806,28.85959388 ]
+    },
+    "properties": {
+    "punto_desembarque_id":80,
+    "punto_desembarque_nombre":"Puerto de Playa Blanca",
+    "tipo":"Puerto",
+    "municipio_id":"35034",
+    "municipio_nombre":"Yaiza",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":25,
+    "cofradia_pescadores_nombre":"Playa Blanca",
+    "puerto_pagina_web":"_U",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.82947316,28.97898981 ]
+    },
+    "properties": {
+    "punto_desembarque_id":81,
+    "punto_desembarque_nombre":"El Golfo",
+    "tipo":"Playa",
+    "municipio_id":"35034",
+    "municipio_nombre":"Yaiza",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":25,
+    "cofradia_pescadores_nombre":"Playa Blanca",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.66551895,29.10947629 ]
+    },
+    "properties": {
+    "punto_desembarque_id":82,
+    "punto_desembarque_nombre":"La Santa",
+    "tipo":"Refugio",
+    "municipio_id":"35029",
+    "municipio_nombre":"Tinajo",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.56589651,29.11967553 ]
+    },
+    "properties": {
+    "punto_desembarque_id":83,
+    "punto_desembarque_nombre":"Caleta de Famara",
+    "tipo":"Refugio",
+    "municipio_id":"35024",
+    "municipio_nombre":"Teguise",
+    "isla_id":"ES708",
+    "isla_nombre":"Lanzarote",
+    "cofradia_pescadores_id":23,
+    "cofradia_pescadores_nombre":"San Ginés",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Orden de 2 de septiembre de 2002, por la que se corrigen errores de la Orden de 1 de julio de 2002, que determina los puertos de desembarque de los productos de la pesca en el ámbito territorial de la Comunidad Autonómica de Canarias",
+    "boc_titulo":"BOC Nº.121, miércoles 11 de septiembre de 2002",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2002/121/boc-2002-121-002.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.99234768,27.79723227 ]
+    },
+    "properties": {
+    "punto_desembarque_id":84,
+    "punto_desembarque_nombre":"Punta Grande",
+    "tipo":"Refugio",
+    "municipio_id":"38013_2007",
+    "municipio_nombre":"Frontera",
+    "isla_id":"ES703",
+    "isla_nombre":"El Hierro",
+    "cofradia_pescadores_id":14,
+    "cofradia_pescadores_nombre":"Nuestra Señora de Los Reyes",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Anuncio de 9 de enero de 2003, por el que se hace público la Resolución de 18 de diciembre de 2002, que declara la inclusión de los refugios pesqueros de Punta Grande y Playa del Águila, municipios de Frontera y San Bartolomé de Tirajana.",
+    "boc_titulo":"BOC Nº. 17, lunes 27 de enero de 2003",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2003/017/boc-2003-017-016.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.88981329,28.55382912 ]
+    },
+    "properties": {
+    "punto_desembarque_id":85,
+    "punto_desembarque_nombre":"El Remo",
+    "tipo":"Playa",
+    "municipio_id":"38024",
+    "municipio_nombre":"Llanos de Aridane",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":13,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Anuncio de 13 de julio de 2009, por el que se notifica la Resolución de 9 de julio de 2009, de inclusión de los refugios pesqueros de Puerto Naos, El Remo y La Bombilla.",
+    "boc_titulo":"BOC Nº. 145, martes 28 de julio de 2009",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2009/145/boc-2009-145-017.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.90916679,28.58364673 ]
+    },
+    "properties": {
+    "punto_desembarque_id":86,
+    "punto_desembarque_nombre":"Puerto Naos",
+    "tipo":"Playa",
+    "municipio_id":"38024",
+    "municipio_nombre":"Llanos de Aridane",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":13,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Anuncio de 13 de julio de 2009, por el que se notifica la Resolución de 9 de julio de 2009, de inclusión de los refugios pesqueros de Puerto Naos, El Remo y La Bombilla.",
+    "boc_titulo":"BOC Nº. 145, martes 28 de julio de 2009",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2009/145/boc-2009-145-017.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.91953923,28.59272156 ]
+    },
+    "properties": {
+    "punto_desembarque_id":87,
+    "punto_desembarque_nombre":"La Bombilla",
+    "tipo":"Playa",
+    "municipio_id":"38045",
+    "municipio_nombre":"Tazacorte",
+    "isla_id":"ES707",
+    "isla_nombre":"La Palma",
+    "cofradia_pescadores_id":13,
+    "cofradia_pescadores_nombre":"Nuestra Señora del Carmen",
+    "puerto_pagina_web":"_Z",
+    "normativa":"Anuncio de 13 de julio de 2009, por el que se notifica la Resolución de 9 de julio de 2009, de inclusión de los refugios pesqueros de Puerto Naos, El Remo y La Bombilla.",
+    "boc_titulo":"BOC Nº. 145, martes 28 de julio de 2009",
+    "boc_enlace":"http://www.gobiernodecanarias.org/boc/2009/145/boc-2009-145-017.pdf"
+    }
+  }
+]
+}
